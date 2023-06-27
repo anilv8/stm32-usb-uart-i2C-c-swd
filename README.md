@@ -2,10 +2,12 @@
 # Schematic of circuit
 
 ### ERC Result
+![stm32-erc](https://github.com/anilv8/stm32-usb-uart-i2c-swd/assets/81171588/e754d8cd-73cd-46c9-8e1e-9053cf024656)
 
 # PCB Board
 
 ### DRC Result
+![stm32-drc](https://github.com/anilv8/stm32-usb-uart-i2c-swd/assets/81171588/7635af0a-f724-41aa-9d86-54b24afc4f18)
 
 ### 3D view of PCB
 Front:
