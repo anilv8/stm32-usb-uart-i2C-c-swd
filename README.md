@@ -1,4 +1,6 @@
-# stm32-usb-uart-i2C-c-swd
+# STM32 with USB + UART + I2C + SWD
+STM32F103C8T6 with USM micro B, UART, I2C and SWD.
+Dimensions: 42 mm x 30 mm
 # Schematic of circuit
 ![stm32-schematic-](https://github.com/anilv8/stm32-usb-uart-i2c-swd/assets/81171588/a39be852-f537-4776-9b62-07ca1ed63107)
 
@@ -44,3 +46,6 @@ Back:
 | U1 | 1 | STM32F103C8T6 | STM32F103C8Tx | Package_QFP:LQFP-48_7x7mm_P0.5mm | STMicroelectronics Arm Cortex-M3 MCU, 64KB flash, 20KB RAM, 72 MHz, 2.0-3.6V, 37 GPIO, LQFP48  | | |
 | U2 | 1 | AMS1117-3.3 | AMS1117-3.3 | Package_TO_SOT_SMD:SOT-223-3_TabPin2 | 1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223 | | |
 | Y1 | 1 | 16MHz | Crystal_GND24 | Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm |Four pin crystal, GND on pins 2 and 4 | | |
+
+# REFERENCES
+[1]  https://www.udemy.com/course/learn-kicad-v6-and-stm32-hardware-design/
