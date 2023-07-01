@@ -4,27 +4,31 @@ Dimensions: 42 mm x 30 mm
 # Schematic of circuit
 ![stm32-schematic-](https://github.com/anilv8/stm32-usb-uart-i2c-swd/assets/81171588/a39be852-f537-4776-9b62-07ca1ed63107)
 
-### ERC Result
+## ERC Result
 ![stm32-erc](https://github.com/anilv8/stm32-usb-uart-i2c-swd/assets/81171588/e754d8cd-73cd-46c9-8e1e-9053cf024656)
 
 # PCB Board
+### Front Copper
 ![stm32-pcb-front-copper](https://github.com/anilv8/stm32-usb-uart-i2c-swd/assets/81171588/d1f61f0b-a2f8-4324-b178-103c8ec8be87)
+### Back copper
 ![stm32-pcb-back-copper](https://github.com/anilv8/stm32-usb-uart-i2c-swd/assets/81171588/4d277870-99e1-4488-8148-54ddc79f34aa)
+### Silkscreen
 ![stm32-pcb-front-silkscreen](https://github.com/anilv8/stm32-usb-uart-i2c-swd/assets/81171588/56c3c98f-1689-45cf-8653-edeed01e2ea3)
 
-
-### DRC Result
+## DRC Result
 ![stm32-drc](https://github.com/anilv8/stm32-usb-uart-i2c-swd/assets/81171588/7635af0a-f724-41aa-9d86-54b24afc4f18)
 
-### 3D view of PCB
-Front:
+## 3D view of PCB
+### Front:
 ![stm32-3d-front](https://github.com/anilv8/stm32-usb-uart-i2c-swd/assets/81171588/895b1a41-4377-4b27-8c16-733a91673106)
 
-Back:
+### Back:
 ![stm32-3d-back](https://github.com/anilv8/stm32-usb-uart-i2c-swd/assets/81171588/6e116820-403e-4438-b38c-f98dd038ebf5)
 
-# Gerber
+## Gerber
+### Front Copper
 ![stm32-gerber-front-copper](https://github.com/anilv8/stm32-usb-uart-i2c-swd/assets/81171588/6a6a438e-b507-4b29-b859-b939e29b948c)
+### Back Copper
 ![stm32-gerber-back-copper](https://github.com/anilv8/stm32-usb-uart-i2c-swd/assets/81171588/39482d16-88c0-4cea-8039-6082638e0764)
 
 # BOM
